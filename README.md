@@ -7,6 +7,7 @@ _[!] Check the **Manual** for more info on a project_
 002. [ ] 002. Number Guessing
 003. [ ] 003. Text-based Adventure Game
 004. [ ] 004. Dice Rolling Simulator
+005. [ ] 005. Email Slicer
 
 ### References:
 - **(42 Exciting Python Project Ideas & Topics for Beginners in 2023 [Latest])** _https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/_
