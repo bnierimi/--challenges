@@ -5,8 +5,7 @@ Developing different projects from beginners to Yonko :D
 1. Clone this repo
 2. Rename the **lang/** dir to the name of the language you are going to be coding in
 3. And start
-4. When you complete a project, tick the box in the **Tier** list below
-	- [x] 000. probee
+4. When you complete a project, tick the box in the **Tier** list below - [x] 000. probee
 5. And push 
 
 ## /!\ WARNING : This is just a sample::beta, original is Coming Soon
