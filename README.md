@@ -16,6 +16,7 @@ Developing different projects from beginners to Yonko :D
 009. [ ] 009. Dice Rolling Simulator
 010. [ ] 010. Email Slicer
 
+<!--
 ### Tier 2
 011. [ ] 011. Mad Libs Generator
 012. [ ] 012. Number Guessing
@@ -27,6 +28,7 @@ Developing different projects from beginners to Yonko :D
 018. [ ] 018. Text-based Adventure Game
 019. [ ] 019. Dice Rolling Simulator
 020. [ ] 020. Email Slicer
+-->
 
 <!--
 ### Tier 1
