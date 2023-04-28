@@ -1,22 +1,23 @@
-# Challanges
+# 👾 Challanges
 Developing different projects from beginners to Yonko :D
 
 0. Fork this repo
 1. Clone this repo
 2. Rename the **lang/** dir to the name of the language you are going to be coding in
 3. And start
-4. When you complete a project, tick the box in the **Tier** list below - [x] 000. probee
+4. When you complete a project, tick the box in the **Tier** list below
+	- [x] 000. probee
 5. And push 
 
-## /!\ WARNING : This is just a sample::beta, original is Coming Soon
+## ⚓ WARNING : This is just a sample::beta, original is Coming Soon
 [!] Check the **Manual-Tier-{No.}** for more info on a project
 
-### Doms
-+ Command line
-+ Web app
+### ⛵ Streams
++ Command line app
 + Desktop app
++ Web app
 
-### Tier 3
+### 🌕 Tier 3
 001. [ ] 001. What's up my friend
 002. [ ] 002. Number Guessing
 003. [ ] 003. Email Slicer
@@ -29,7 +30,7 @@ Developing different projects from beginners to Yonko :D
 010. [ ] 010. Currency converter
 
 <!--
-### Tier 2
+### 🌔 Tier 2
 011. [ ] 011. Random Password Generator
 012. [ ] 012. Build a Book or Library Management System [GUI]
 013. [ ] 013. Contact Book [GUI]
@@ -43,7 +44,7 @@ Developing different projects from beginners to Yonko :D
 -->
 
 <!--
-### Tier 1
+### 🌓 Tier 1
 021. [ ] 021. Build a [Discord, Telegram, WhatsApp, Facebook]bot To Calculate Age
 022. [ ] 022. Text-based Adventure Game
 023. [ ] 023. Text-based Adventure Game
@@ -57,7 +58,7 @@ Developing different projects from beginners to Yonko :D
 -->
 
 <!--
-### Tier 0
+### 🌒 Tier 0
 031. [ ] 031. Number Guessing
 032. [ ] 032. Text-based Adventure Game
 033. [ ] 033. Text-based Adventure Game
@@ -71,7 +72,7 @@ Developing different projects from beginners to Yonko :D
 -->
 
 <!--
-### Tier X
+### 🌑 Tier X
 041. [ ] 041. Number Guessing
 042. [ ] 042. Text-based Adventure Game
 043. [ ] 043. Mad Libs Generator
@@ -85,5 +86,5 @@ Developing different projects from beginners to Yonko :D
 -->
 
 
-### References:
+### 🔮 References:
 - **(42 Exciting Python Project Ideas & Topics for Beginners in 2023 [Latest])** _https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/_
