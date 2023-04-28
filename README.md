@@ -8,4 +8,4 @@ Developing different projects from beginners to Yonko :D
 4. [ ] Dice Rolling Simulator
 
 ### References:
-(42 Exciting Python Project Ideas & Topics for Beginners in 2023 [Latest]) **https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/**
+- **(42 Exciting Python Project Ideas & Topics for Beginners in 2023 [Latest])** _https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/_
