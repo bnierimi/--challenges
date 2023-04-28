@@ -12,6 +12,7 @@ Developing different projects from beginners to Yonko :D
 ## /!\ WARNING : This is just a sample::beta, original is Coming Soon
 [!] Check the **Manual-Tier-{No.}** for more info on a project
 
+### Doms
 + Command line
 + Web app
 + Desktop app
