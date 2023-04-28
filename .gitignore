@@ -1,2 +1,3 @@
 # Yonko::Nierimi
-/.store # This dir contains projects we don't want to trash but also don't want to keep in our main base
+/.store
+	# This dir contains projects we don't want to trash but also don't want to keep in our main base
