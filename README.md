@@ -1,7 +1,7 @@
 # 👾 Challanges
 Developing different projects from beginners to Yonko :D
 
-0. Fork this repo
+<!-- 0. Fork//Star && Watch this repo -->
 1. Clone this repo
 2. Rename the **lang/** dir to the name of the language you are going to be coding in
 3. And start
